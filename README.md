@@ -19,3 +19,5 @@ Usage Examples:
 ```
 python snortStats.py -f "snort.log"
 python snortStats.py -i -t 48 -n 10 -f "../path/to/snort.log.0, ../path/to/snort.log.1, alert.fast.0.pcap"
+
+![Screenshot](img/snortStats.png)
